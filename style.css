@@ -11,7 +11,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #06283D;
+    background: #DDD0C8;
 }
 
 .container{
@@ -35,7 +35,7 @@ body{
 }
 
 .search-box input{
-    color: #06283D;
+    color: #323232;
     width: 80%;
     font-size: 24px;
     font-weight: 500;
@@ -182,3 +182,4 @@ body{
         opacity: 1;
     }
 }
+
