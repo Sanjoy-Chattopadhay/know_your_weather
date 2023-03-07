@@ -1,4 +1,6 @@
-# Know Your Weather
+#Instructions to use this source code
+
+## Know Your Weather
 
 ## Firtsly Download the source code and open it with your comfortable broswer(VS Code preferably).
 ![Code setup image](https://github.com/Sanjoy-Chattopadhay/know_your_weather/blob/main/images/code%20setup%20instruction.png)
