@@ -1,3 +1,6 @@
+This is a web application made with HTML5, CSS3, Javascript. This app tells you about weather. You enter a city name in the textbar and press Find button, Weather will be generated for the respective location.
+
+
 #Instructions to use this source code
 
 ## Know Your Weather
